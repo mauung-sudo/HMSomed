@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"2640095000000664437",
+		"product_id":"736430079244788293",
+		"client_id":"543963600834802304",
+		"client_secret":"4AC0F6C446CF9905E468D862DA3912ECC4FF0E2957C613A29EFBB26F3548F924",
+		"project_id":"736430079244788293",
+		"app_id":"103716297",
+		"api_key":"CgB6e3x98w3IcYbmrqJKCrqQxcCLuAPfNM/YayXDzOWj+Z+XtkDYhmdUE0EHRlSpmTffs9xHcDXGgMoNFvoeV5D9",
+		"package_name":"com.sudo_lab.omed"
+	},
+	"configuration_version":"1.0"
+}
